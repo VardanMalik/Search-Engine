@@ -4,7 +4,7 @@ import pandas as pd
 
 from huggingface_hub import login
 
-login("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")
+login("")
 
 np.random.seed(1)
 
